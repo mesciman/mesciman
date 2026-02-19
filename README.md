@@ -19,14 +19,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 
-### 📊 GitHub İstatistikleri
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mesciman&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesciman&layout=compact&theme=radical" />
-</p>
-
 ### 📫 Benimle İletişime Geçin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metin-mescio%C4%9Flu-abb6b8146/)
 
----
-*Bu profil [Antigravity](https://github.com) tarafından Metin'in LinkedIn bilgilerine dayanarak otomatik olarak optimize edilmiştir.*
